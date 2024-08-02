@@ -1,4 +1,4 @@
-# Bnak_loan_Analysis_Dashboard
+# Bank_loan_Analysis_Dashboard
 
 Project Objective or Overview
 
